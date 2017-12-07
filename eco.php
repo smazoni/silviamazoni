@@ -10,9 +10,10 @@
     <div class="col-md-6 mb-3">
       <label class="mr-sm-2" for="inlineFormCustomSelect">Preference</label>
       <select class="custom-select mb-2 mr-sm-2 mb-sm-0" id="inlineFormCustomSelect">
-        <option selected>ECO TIROIDE</option>
-          <option value="1">ECO MAMMELLA</option>
-          <option value="2">ECO ADDOME</option>
+        <option selected>Ecodoppler cardiaco compreso color</option>
+          <option value="1">Ecocolordoppler aorta addominale</option>
+          <option value="2">Ecocolordoppler arti inferiore e superiori</option>
+          <option value="3">Ecocolordoppler tronchi sovraortici</option>
       </select>
     </div>
   </div>
