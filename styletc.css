@@ -1,0 +1,23 @@
+form {
+    
+  }
+h1.my {
+    text-align: center;
+    color: #ffffff;
+    font-size: 45px;
+    background-color: rgba(66, 134, 244, 0.6);
+    padding: 5px;
+  }
+  h2.my {text-align: center;
+    color: #000000;
+    font-size: 25px;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 5px
+
+  }
+  body {background-color: #5342f4;
+    background-image: url('images/TC.jpg');
+    background-size: 1190px;
+    background-position: center;
+  }
+  
