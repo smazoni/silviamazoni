@@ -31,10 +31,16 @@
         <div class="form-group">
           <label for="exampleFormControlSelect1">DISTRETTO</label>
           <select class="form-control" id="exampleFormControlSelect1">
-            <option>CAPO-COLLO</option>
+            <option>TESTA</option>
+            <option>FACCIA</option>
+            <option>COLLO</option>
+            <option>COLONNA</option>
             <option>TORACE</option>
-            <option>ADDOME-PELVI</option>
-            <option>ARTI</option>
+            <option>ADDOME</option>
+            <option>PELVI</option>
+            <option>PERINEO</option>
+            <option>ARTI SUPERIORI</option>
+            <option>ARTI INFERIORI</option>
           </select>
        </div>
       </div>
